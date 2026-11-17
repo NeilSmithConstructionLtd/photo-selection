@@ -1,0 +1,63 @@
+Queen Elizabeth School - Social Media Photo Selection by Hamid
+
+KEEP_ = ready to use. EDIT_ = good after a crop/exposure/colour fix.
+Picks: 107 (82 KEEP, 25 EDIT)
+
+== Highlights and things to check ==
+202411,IMG_0563.jpg,KEEP,HDPE pipe delivery: excavator, crane, PPE crew, blue sky
+202411,IMG_0450.jpg,EDIT,Pipe riser in shored trench; brighten shadows
+202412,IMG_0840.jpg,KEEP,HDPE fusion machine at valve, crew hi-vis
+202412,IMG_0871.jpg,KEEP,HDPE fittings on clean gravel bedding
+202412,IMG_4288.jpg,KEEP,Worker with pipe wrench at utility crossings
+202501,IMG_0579.jpg,KEEP,Steel pipe pile field with excavators
+202501,IMG_2912.jpg,KEEP,Crew member at PVC service pipe in trench
+202501,IMG_2928.jpg,KEEP,Wide site: excavator, laser level, pile crane
+202501,IMG_3100.jpg,KEEP,Dramatic sunlit pile field
+202502,1373178556153655903.JPG,KEEP,Forest of welded steel piles
+202502,1972605648725024381.JPG,KEEP,Numbered steel piles in excavation
+202502,371502658532229596.JPG,EDIT,Boost exposure, crop mud foreground
+202503,IMG_2217.jpg,KEEP,Excavator operator with rebar cages and pile caps
+202504: 6 KEEP (crew in trench, structure install sequence IMG_0210-0214) + 4 EDIT (IMG_0057, 0070, 0135, 0319 crop/exposure)
+202505: 3 KEEP (IMG_0478, IMG_0684, 6520582225568695974) + 2 EDIT (6489533270061878400, IMG_0687)
+202507: 7 KEEP (crew conduit trench, Kobelco/CAT equipment IMG_1043, 20250716-4/-5, 20250717-5) + 3 EDIT (20250806 (2) brighten sky, IMG_4490 crop poly sheeting); some duplicate StreetLighting picks
+202508: 25 KEEP + 6 EDIT (street-level progress, crew installs, IMG_4801-4806, IMG_5877-6096) - reasons generic, verify visually
+202509: IMG_5154 KEEP
+202510: IMG_6758 EDIT bundled conduits, crop/warm colour
+202603: 6 KEEP (crew excavating beside new school, grouted pipe into manhole, conduit bank teamwork, backfill action, service connection, wide shot by new school) + IMG_0046 EDIT remove .65/.75 annotations
+202604: 2 KEEP (site work, progress), 1 EDIT (crop/exposure)
+202608: 16 KEEP, 6 EDIT - concrete pour + finishers, finished walkways to new school, paving crew/roller by new school, hero wide of new school with fresh paving (IMG_8416), IMG_8253 crop photographer shadow, IMG_8413 fix backlight
+202610b: IMG_9134 EDIT straighten/exposure
+202611: IMG_9285 EDIT crop/colour
+SpringBreakSewer,e089d47a-4ac9-4c88-aa89-2ae74efd470b.jpg,KEEP,Sharp detail new manhole base with pipe connections
+StreetLighting,20250730 (9).jpg,KEEP,Worker in PPE placing conduit, sunny streetscape
+StreetLighting,20250731 (7).jpg,KEEP,Long conduit trench, skid steer and crew
+StreetLighting,IMG_0973.jpg,KEEP,Crew laying orange conduit, strong lines
+StreetLighting,IMG_0974.jpg,KEEP,Clean trench, warning tapes, loader, blue sky
+StreetLighting,IMG_0975.jpg,KEEP,Excavator, dumper, crew - action shot
+StreetLighting,IMG_0991.jpg,KEEP,School sign, crew laying tape, excavator
+StreetLighting,20250731 (5).jpg,EDIT,Crop finger at right edge
+StreetLighting,20250731 (1).jpg,EDIT,Crop bottom foreground dirt
+
+== NOT REVIEWED (HEIC, over 5 MB, or video - could not be opened; convert on a computer with OneDrive synced) ==
+202409: ~57 HEIC (20240924/26/27_*)
+202410: ~78 HEIC (20241007-20241031_*), 20241031_173837530_iOS.jpg >5MB
+202411: ~170 HEIC (20241101-20241127_*), 11 jpg/png >5MB (IMG_0564-0570, IMG_2481/2482, 3 screenshot PNG)
+202412: duplicates 202411 set + ~37 jpg >5MB (IMG_0841-0872, IMG_2765-2901, IMG_4279-4293, IMG_5773/5774, 75606625973)
+202501: 30 jpg >5MB (IMG_1200-1203, IMG_2908-2932, IMG_4363-4365, 20250123_*)
+202503: IMG_2215, IMG_2216 >5MB
+202504: ~230 jpg >5MB (IMG_0035-IMG_0428)
+202505: ~46 jpg >5MB (IMG_0434-0477, IMG_0681-0689)
+202506: IMG_5099 >5MB
+202507: ~70 jpg >5MB (IMG_0003-0019, IMG_0982-1053, IMG_4399-4666, IMG_5398-5846, 77326965014, 77429732084, 77500436240), IMG_5838.MOV
+202508: ~110 jpg >5MB (IMG_1028-1144, IMG_2405/2406, IMG_2416.PNG, IMG_3492, IMG_4666-IMG_6098)
+202509: 14 jpg >5MB (IMG_5135-5150, IMG_6547-6550)
+202602: IMG_8236, 8238, 8241, 8243
+202603: ~80 jpeg >5MB (795xxxxx/796xxxxx, IMG_0047-0202, IMG_7489-7615)
+202604: ~19 jpeg >5MB (IMG_0218-IMG_0415), IMG_0325.MOV
+202608: ~150 jpeg >5MB (IMG_8100-IMG_8440, 80833535170, 80963680378)
+202610b: ~25 jpeg >5MB (IMG_2442-2462, IMG_9130-9150, 81473252383)
+202611: ~55 jpeg >5MB (IMG_1324-IMG_2618, IMG_9273-9289, 81532884936, 81534849617, QEES-Concrete Encase.jpg)
+Existing Conditions: 28 HEIC (20240924_*, 20240927_*)
+Sewer Installation at Spring Break: 31 jpeg >5MB (IMG_0047-IMG_0415, IMG_7533-IMG_7615)
+Street Lighting: IMG_1010, 1015, 1028-1031, 1038, 5520, 5521, 5524 (>5MB)
+Water Crossing Supporting Photo: 8 HEIC
