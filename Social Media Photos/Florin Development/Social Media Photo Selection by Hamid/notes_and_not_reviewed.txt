@@ -1,0 +1,60 @@
+Florin Development - Social Media Photo Selection by Hamid
+
+KEEP_ = ready to use. EDIT_ = good after a crop/exposure/colour fix.
+Picks: 259 (180 KEEP, 79 EDIT)
+
+== Highlights and things to check ==
+202302: 5 KEEP + 2 EDIT (pipe/trench progress) - listing was truncated, re-list folder later
+202303: 9 KEEP + 6 EDIT (crew/pipe installs, wide progress)
+202304: 11 KEEP + 2 EDIT (green sewer main in shored trench, plate tamper, manhole barrel, crew raking asphalt around manhole lid)
+202308: 4 KEEP + 2 EDIT (main in trench box, streetscape w/ crane, main to manhole tee; IMG_8176 crop third-party sign)
+NOTE: 202304 IMG_6921 is a WorkSafeBC Stop Work order - deliberately excluded, do not publish
+202309: 13 KEEP + 3 EDIT (crew in shored trench, worker setting manhole in trench box, new red gate valves, tower crane context, watermain in clean trench)
+202310: 8 KEEP + 4 EDIT; 202311: 9 KEEP + 2 EDIT (progress/equipment shots)
+202312: 3 KEEP + 1 EDIT - LOW-RES thumbnails (image031, thumbnail_image*) - fine for social, not for print
+202401: IMG_0751 EDIT
+202406: IMG_0144, IMG_0145, IMG_0161 1, IMG_0168 KEEP (crew/pipe in trench)
+202409: IMG_0471, IMG_0546 KEEP; IMG_0547 EDIT crop/exposure; 0c946a32 EDIT straighten/crop
+202410: IMG_2317 KEEP equipment progress
+202411: IMG_2591 EDIT crop clutter/brighten
+202503: 8 KEEP (overhead crew installing green sewer pipe, drain trench w/ geotextile, excavator backfill, telehandler lifting shoring box, catch basins & manholes) + 4 EDIT (2193074025511584244 crop half-body; 9028577411499109570 crop finger; IMG_2358 crop worker, brighten; IMG_2384 crop debris)
+202504: 8 KEEP + 9 EDIT (worker cutting manhole riser in PPE, curb & gutter pour, NSC excavator setting lamp base; IMG_3091 crop worker w/o hard hat)
+202505: 22 KEEP + 18 EDIT (lamp base lifts, paving crew 4K, curb pour/finishing, stormwater cells, team lunch culture shot)
+202506: 11 KEEP + 7 EDIT (hydrant install, storm pipe, sidewalk pour crew at Florin building)
+202507: 7 KEEP + 8 EDIT (paving crew at Florin building, finished sidewalk/curb/lamps; IMG_4266 blur plates, IMG_4568 crop house number)
+202509: 3 KEEP + 3 EDIT (finished circular plaza, Florin hoarding sign, formwork)
+Deficiency2025: 1 EDIT; CurbDeficiency2026: 5 KEEP finished curb/sidewalk
+BCHydro: 9 KEEP duct bank install, colourful conduits, crew pouring encasement, precast vault
+Inspection: 8 KEEP + 1 EDIT (shored trench green PVC into manhole, hot-tap crew, first watermain pipe, road base w/ mixer)
+JBCoring: 2 KEEP precast junction boxes; PipeModifying: 2 KEEP + 2 EDIT
+RonsTablet: 23 KEEP (crew/trench/excavators, NSC crew placing conduit, skyline wide shots)
+Streetlight: 4 KEEP (streetlight base, conduit trench, crew, city towers)
+NOTE: BC-Hydro-Scope only 8 of ~60 date subfolders listed - remaining subfolders not reviewed
+
+== NOT REVIEWED (HEIC, over 5 MB, or video - could not be opened; convert on a computer with OneDrive synced) ==
+202302: IMG_6399-IMG_6459 (10 >5MB) + any files hidden by truncated listing
+202303: ~100 jpg >5MB (IMG_0030, IMG_2353/2369, IMG_6462-IMG_6899)
+202304: ~63 jpg >5MB (IMG_2385/2389, IMG_6911-IMG_7104), IMG_1348.MOV
+202306: IMG_7771; 202308: ~36 jpg >5MB (20230824-20230828_*, IMG_8348-8469)
+202309: ~230 jpg >5MB (20230901-20230929_*, IMG_8641-IMG_8809)
+202310: ~95 jpg >5MB (20231003-20231031_*, IMG_0279, IMG_9020-9181)
+202311: ~45 jpg >5MB (20231101-20231120_*, IMG_9191-9298); 20231102_215304 rate-limited
+202312: 14 jpg >5MB (72350397090, 72472*, IMG_0620-0740, IMG_9543/9544); thumbnail_image4 rate-limited
+202401: 17 jpg >5MB (IMG_0748-0784, IMG_2922-2924)
+202406: 22 jpg >5MB (IMG_0133-0169, IMG_1112-1116)
+202408: IMG_1620 >5MB
+202409: 19 jpg >5MB (IMG_0470-0616, IMG_1987-1989, IMG_3885-3887)
+202410: 43 jpg >5MB (IMG_2154-IMG_2444, IMG_3984)
+202411: IMG_2598, IMG_4151
+202412: 75511769573, IMG_0794, IMG_0796, IMG_9672
+202501: 8 jpg >5MB (IMG_9484-9495)
+202503: ~45 jpg >5MB (IMG_0676, IMG_2341-IMG_2588, IMG_3550-3555, IMG_3829-3831, 76419509455, 76515215083)
+202504: ~130 jpg >5MB; 202505: ~90 jpg >5MB; 202506: ~80 jpg >5MB; 202507: ~60 jpg >5MB; 202508: 5 jpg >5MB; 202509: ~47 jpg >5MB; 202511: IMG_7143
+202603: 101 HEIC (20260303/04_*_iOS.heic incl " 1" duplicates) - entire folder
+Deficiency2025: IMG_6284, 6285 >5MB
+CurbDeficiency2026: ~50 jpeg >5MB top level + 'Marked by City' 16 + 'site review' 34 (all >5MB)
+BCHydro: ~45 jpg >5MB in listed subfolders; ~50 date subfolders never listed (BCH-Inspection/* and Original-NSC-Only/*)
+Inspection: Package 8 6.jpg, 7.jpg; JBCoring: IMG_8046-8052
+PipeModifying: 31 jpg >5MB (20231010_*, 20231011_*, 20231017_*)
+RonsTablet: ~55 jpg >5MB (IMG_0585-0764, IMG_6974)
+Streetlight: 76540630801, IMG_2682, 2684, 2689
