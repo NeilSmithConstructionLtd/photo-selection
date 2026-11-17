@@ -1,0 +1,64 @@
+Guildford Park Secondary Addition - Social Media Photo Selection by Hamid
+
+KEEP_ = ready to use. EDIT_ = good after a crop/exposure/colour fix.
+Picks: 307 (222 KEEP, 85 EDIT)
+
+== Highlights and things to check ==
+202508: 20280811 (7) KEEP backhoe at sunset
+202509: 23 KEEP + 8 EDIT (deep excavation w/ excavators, compaction crews, detention tank modules & liner install, precast chamber lift, watermain trench)
+202510: 12 KEEP + 13 EDIT (tandem lift of valve chamber - hero shot IMG_4029, boom truck lifts, manhole installs, storm main w/ leading lines, valve manifold); IMG_6913 crop worker w/o hi-vis; IMG_3431 crop photographer shadow
+202511: 39 KEEP + 8 EDIT (crew/equipment progress) - generic reasons, verify visually
+202512: 14 KEEP + 4 EDIT (two CAT excavators on foundation excavation, crew forming foundation walls, finished catch basin, storm pipe backfill)
+202601: 9 KEEP + 3 EDIT (foundation formwork, trench box in golden light, electrical kiosk, completed footings low sun; IMG_6864 crop subcontractor branding)
+202602: 43 KEEP + 12 EDIT (trench/pipe/crew/equipment, elevated site-cam Snapshots) - generic reasons, verify visually
+202603: 11 KEEP + 3 EDIT (steel structure progress, elevated views of steel frame)
+202604: 5 KEEP (excavation with steel frame & crane, harnessed worker on lift)
+202605: 9 KEEP + 1 EDIT (crew on storm main w/ laser level, manhole riser lowered, Kobelco trenching, flagger safety story; IMG_7858 crop photographer shadow)
+202607: 13 KEEP (ductile pipe lowered by excavator, new manhole w/ green PVC + school backdrop, gas trench beside school, precast base lowered by backhoe, pipe laying sequence) + 10 EDIT (crop/straighten/exposure; Snapshot_2026-07-18 low-res aerial)
+202606: 7 KEEP (fresh asphalt patch w/ NSC branding, finished paved trench along school, crew bedding concrete storm pipe, excavators placing drain rock by new school) + 5 EDIT (IMG_4998 worker in jeans - crop; IMG_8023 flagger brighten sky)
+202608: 13 KEEP + 4 EDIT (crew/equipment/progress; elevated Snapshot_* need fisheye crop)
+202609: 9 KEEP + 4 EDIT (paving crew, finished curb/sidewalk; IMG_8871 also appears in Kingston 202610 - same photo in both projects)
+202610: 5 KEEP + 2 EDIT (manhole/trench beside new school building, finished paving; 81388233405 also in Kingston 202610)
+202611: 3 KEEP + 1 EDIT (crew laying pipe to manhole, drain trench along building)
+NOTE: 1 file (202609 15f4f124...JPG) not viewed due to rate limits
+Inspection,IMG_3251.jpg,KEEP,Sharp green storm pipe coupling through liner, strong colour
+Inspection,IMG_5204.jpg,KEEP,Wide tank excavation, two excavators, blue sky
+Inspection,IMG_5256.jpg,KEEP,Crew in PPE rolling out liner, dramatic sky
+Inspection,IMG_5271.jpg,KEEP,PPE crew placing first tank modules, excavators behind
+Inspection,IMG_0518.jpeg,KEEP,Compactor operator with PPE, excavator, golden light
+Inspection,Service Connection 1.jpeg,KEEP,Crisp teal service saddle on watermain
+Inspection,77974808547__02BC1BE3-17BB-44CA-B0E9-4E592B887C72.jpg,EDIT,Crop to right-side PPE crew; centre worker lacks PPE
+Inspection,77982845681__96C47C66-A383-4B28-B20E-ECFF08FBA4BD.jpg,EDIT,Dehaze/boost contrast
+Inspection,77983800032__BFC6381C-512E-4524-8C42-449151E496B2.jpg,EDIT,Dehaze and crop foreground liner
+Inspection,1.JPG,EDIT,Crop tool case and debris
+Inspection,3.jpg,EDIT,Crop coffee cup bottom-left
+Inspection,20260522_184240000_iOS.jpg,EDIT,Crop boot bottom-left
+Inspection,Service Connection 3.jpeg,EDIT,Crop trench floor, lift shadows
+
+== NOT REVIEWED (HEIC, over 5 MB, or video - could not be opened; convert on a computer with OneDrive synced) ==
+202509: ~68 jpg >5MB (20250905 (1-7), 779xxxxx/780xxxxx, IMG_3040-IMG_6466)
+202510: 20 HEIC (20250925-20251003_*), ~110 jpg >5MB (782xxxxx, IMG_3255-IMG_6963), 4 video
+202511: ~80 jpg >5MB (783xxxxx-785xxxxx, IMG_3579-IMG_7225)
+202512: ~51 jpg >5MB (786xxxxx-787xxxxx, IMG_0366-IMG_7638, 20251211_140056)
+202601: 75 HEIC (20260115_*, 20260126_*), IMG_6945.MOV, ~35 jpeg >5MB (790xxxxx-791xxxxx, IMG_4054-IMG_8006)
+202602: ~78 jpeg >5MB (IMG_1033-IMG_8251, Sanitary.jpeg), IMG_3700.heic, IMG_7089.MOV
+202603: ~64 HEIC (20260310/16/18_*), ~14 MOV, ~37 jpeg >5MB (795xxxxx-796xxxxx, IMG_4371-IMG_9013)
+202604: ~37 jpeg >5MB (796-799xxxxx, IMG_0402-0574, IMG_4595, IMG_8719-8725)
+202605: ~130 HEIC (20260513-20260529_*), ~37 jpeg >5MB, 1 PDF
+202606: ~480 HEIC (20260601-20260628_*_iOS.heic), 33 MOV, ~90 jpeg >5MB, 3 screenshot PNG
+202607: IMG_1929.MOV, ~47 jpeg 80xxxxx >5MB, ~200 IMG_* >5MB, 3 "Onsite Sani - GPSS" jpeg >5MB
+202608: 16 HEIC (20260804_*), ~28 jpeg 807xxxxx >5MB, ~130 IMG_0389-IMG_2475 >5MB
+202609: ~16 jpeg 81xxxxx >5MB, IMG_0226-0230, IMG_0707-0712, ~110 IMG_2494-IMG_5911 >5MB
+202610: 36 HEIC (20261014_*, 20261015_*), 1 MOV, ~22 jpeg 81xxxxx >5MB, ~55 IMG_* >5MB, 1 screenshot PNG >5MB
+202611: 7 jpeg 81xxxxx >5MB, 15 IMG_* >5MB, IMG_2625.MOV, IMG_8766.heic, IMG_8768.heic
+OffsiteLBCB: ~131 HEIC (20261014_*, 20261105_*), 20261014_192706000_iOS.png (12MB), 2 MOV, 81560097434...HEIC; Lb 1 subfolder: ~60 HEIC + png
+Fitting: 42 HEIC (20261009_*)
+Inspection/CDF: 6 HEIC (20260811_*)
+Inspection/DT installation Images: 20251002_165343789.heic, IMG_3255, IMG_5272, IMG_5280, IMG_5285, IMG_5359 1, IMG_5364, IMG_5366, IMG_5367 (>5MB)
+Inspection/Geotech: IMG_8719, 5.jpeg, 2.jpeg, 3.jpeg, 22 and 23 April (1-3), IMG_9544, IMG_9545 (>5MB); 1.heic,2.heic (12,8,9), IMG_4580/4581.heic
+Inspection/Offsite Curb Sub-grade: 75mm Sub-base 1-3, STA2+020..STA2+200 (19 files >5MB)
+Inspection/Offsite Road subgrade: IMG_0489..IMG_0516 (24 files >5MB)
+Inspection/Offsite Sanitary/First Trial: IMG_0215..IMG_0279 (11 >5MB), 4 MOV
+Inspection/Offsite Sanitary/Tie-In: 8 HEIC
+Inspection/Off-Site Storm Installation Photos: ~165 HEIC (20260513-20260609), 2 PNG 14MB, 1 MOV
+Inspection/Offsite Water - 146 ST: Denso Tape.heic, Pipe bedding material.heic, North End.MOV, Service Connection 2.jpeg, South End 1-3 (>5MB)
