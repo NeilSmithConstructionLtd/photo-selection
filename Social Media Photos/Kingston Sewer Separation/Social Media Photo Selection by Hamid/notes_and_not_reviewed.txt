@@ -1,0 +1,61 @@
+Kingston Sewer Separation - Social Media Photo Selection by Hamid
+
+KEEP_ = ready to use. EDIT_ = good after a crop/exposure/colour fix.
+Picks: 58 (38 KEEP, 20 EDIT)
+
+== Highlights and things to check ==
+202605,79969270648__C9185926-EFF8-40E4-8498-FEB68FDDD9AF.jpeg,KEEP,Crew in hi-vis forming walkway, sunny
+202605,80108304359__269FC7DC-1165-4F3A-8652-4195B0CDA254.jpeg,KEEP,Deere excavator over trench, blue sky
+202605,IMG_6395.jpeg,KEEP,Wide: excavator, manholes in trench, crew carrying pipe
+202605,IMG_8083.jpeg,KEEP,Crew laying green PVC in trench, full PPE
+202605,IMG_9147.jpeg,KEEP,Worker in deep trench beside new sewer pipe
+202606,IMG_1170.jpeg,KEEP,Two workers inside trench shoring box
+202606,IMG_1174.jpeg,KEEP,Manholes and pipe set in trench box
+202606,IMG_1187.jpeg,KEEP,Overhead crew grading pipe bedding
+202606,IMG_7023.jpeg,KEEP,Kubota excavator, crew in shored trench
+202606,IMG_7032.jpeg,KEEP,Elevated progress shot, excavators, shored trench
+202605,80108315035__A63461EC-6319-4EA7-A935-60C97878F8A5.jpeg,EDIT,Reduce highlights, crop worker edge
+202605,IMG_6380 1.jpeg,EDIT,Crop excess road foreground
+202605,IMG_8086.jpeg,EDIT,Through windshield; dehaze and crop
+202606,IMG_1253.jpeg,EDIT,Crop tighter, boost contrast
+202607: IMG_1577 KEEP; IMG_1562 EDIT
+202608: IMG_0159, IMG_0160 KEEP
+202609: 6 KEEP (tree-lined corridor w/ mountain view, Kobelco excavator, roller+excavator streetscape, crew service connection) + 5 EDIT (Kingston Rd sign crop hose; gravel prep crop tape/bottle; CAT lift shadows; IMG_0570 crop photographer shadow; 1000023531/43 crop)
+202610,092e3f7b-94df-44e4-9dec-aed12c82c16e.JPG,KEEP,Finished road/crosswalk under autumn canopy
+202610,81362028297__30848463-6C2C-406E-9BD0-BB984301EBFA.jpeg,EDIT,Paving crew raking asphalt; two workers lack hard hats - crop or check before posting
+202610,4876a79b-21dd-4d27-a209-fa1be0348107.JPG,KEEP,Fresh paving, new curbs, crew, blue sky
+202610,81388233405__B7D871D0-1C20-4FAC-BE05-DC03CCFC82DE.jpeg,KEEP,Excavator setting manhole barrel, green sewer pipe
+202610,639d1229-1f8f-4fdc-a1a3-a24d0fc7e106.JPG,KEEP,Fresh concrete curb ramp detail
+202610,a91e3e59-06bc-4acf-9ebb-b8bcdae85b70.JPG,KEEP,Finished intersection, hydroseed, autumn trees
+202610,IMG_8762.jpeg,KEEP,New curb line, concrete truck, dramatic clouds
+202610,IMG_8871.jpeg,KEEP,Kingston Rd sign, curb forms, roller
+202610,IMG_9094.jpeg,KEEP,Paver and dump truck, mountain/ocean backdrop
+202610,a618e2bf-1887-4d96-a065-eb1c1449e2f5.JPG,KEEP,Dump truck feeding paver, PPE crew, wide
+202610,IMG_9116.jpeg,KEEP,Fresh asphalt at intersection, crew and rollers
+202610,0b99dfa8-f0db-49d7-8a4d-44007554d980.JPG,EDIT,Dehaze and boost contrast
+202610,81309756437__010FB679-AF5D-48E6-A14D-608F65227F6B.jpeg,EDIT,Crop excess sky
+202610,IMG_8901.jpeg,EDIT,Crop recycling bins and grey sky
+202610,IMG_9097.jpeg,EDIT,Crop sky, brighten
+202610,IMG_9123.jpeg,EDIT,Crop out dashboard/windshield
+Mobilization,IMG_6344.jpeg,KEEP,Crane truck lifting container; crew hard hat hi-vis
+Mobilization,543A8D27-0B54-4F04-8234-350684BB694B.JPG,EDIT,Crop large empty road foreground
+PreConstruction,IMG_8617.jpeg,EDIT,Before shot old manhole; brighten exposure
+ServiceConnections,05097481-aa40-4783-bdef-a071ae28a5ad.JPG,EDIT,Crop formwork, tape measure and address
+TreeFencing,1 (1).jpeg,KEEP,Tree protection fencing, sunny street
+TreeFencing,1 (10).jpeg,KEEP,Row of tree-protection fences, strong perspective
+TreeFencing,1 (12).jpeg,KEEP,Fenced tree with mountain view
+TreeFencing,1 (13).jpeg,KEEP,Wide view long fence around mature tree
+TreeFencing,1 (15).jpeg,KEEP,Fenced tree, hydrant, spring light
+TreeFencing,1 (16).jpeg,KEEP,Fenced tree by curving road, mountains
+TreeFencing,1 (4).jpeg,KEEP,Streetscape with fenced trees both sides
+TreeFencing,1 (5).jpeg,KEEP,Close fencing detail with fences beyond
+
+== NOT REVIEWED (HEIC, over 5 MB, or video - could not be opened; convert on a computer with OneDrive synced) ==
+202605: ~125 jpeg >5MB (IMG_0116-IMG_1036, IMG_6334-IMG_6661, IMG_7988-7992, IMG_8084/8085, IMG_8882-8886, 79969269160, 80038663442, 80091753207), 3 MOV
+202606: ~105 jpeg >5MB (IMG_1049-IMG_1325, IMG_6855-6867, IMG_7005-7035, 80290565651, 80420241498), 1 MOV
+202607: ~75 jpeg >5MB (IMG_1408-IMG_1735, IMG_3531, IMG_7975/7976, IMG_9981, 80582389987, 80593180672, 80661724900, 80686722146), IMG_0890.MOV
+202608: ~70 jpeg >5MB (IMG_0161-0163, IMG_1763-IMG_2012, IMG_4964, IMG_6905-6921)
+202609: ~70 jpeg >5MB (811xxxxx, IMG_2019-2153, IMG_8444-8810), IMG_2035.heic
+202610: ~190 jpeg >5MB (81293158400, 81309754981, 81309757130, 81387623030, IMG_2188-IMG_2371 series, IMG_8763-IMG_8989 series, IMG_9035-IMG_9122 series), IMG_8764.MOV
+Mobilization: IMG_6332, IMG_6346, IMG_6347, IMG_6349, IMG_6350 (>5MB)
+Pre-Construction: 45 HEIC 20260422_*_iOS.heic (likely main "before" set), IMG_8615, IMG_8616, IMG_8619, IMG_8621, IMG_8623 (>5MB), 3 MOV
